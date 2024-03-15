@@ -154,7 +154,8 @@ export const skills = [
       },
       {
         name: "Obsidian",
-        image: "https://github.com/sonishstark/Portfolio-website/blob/main/public/obsidian.png?raw=true",
+        image:
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/obsidian.png?raw=true",
       },
     ],
   },
@@ -291,7 +292,7 @@ export const projects = [
     title: "Group Media",
     date: "Oct 2022 - Present",
     description:
-      "Developed a media website with HTML and JavaScript that allows users to explore more than 40 groups for socializing and Networking. It is an open-space website featuring several organized groups and their interacting data. The goal of this platform was for the users to share knowledge, information and communicate among themselves",
+      "Developed a media website with HTML and JavaScript that allows users to explore more than 40 groups for socializing and Networking. It is an open-space website featuring several organized groups and their interacting data. The goal of this platform was for the users to share knowledge, information and communicate among themselves.",
     image:
       "https://github.com/sonishstark/Portfolio-website/blob/main/public/Gorup_media.jpg?raw=true",
     tags: ["JavaScript", "Django", "Bootstrap", "HTML", "CSS", "Apache Tomcat"],
@@ -320,7 +321,7 @@ export const projects = [
       "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
     image:
       "https://github.com/sonishstark/Portfolio-website/blob/main/public/snake_game.png?raw=true",
-    tags: ["Python", "PyCharm", "TensorFlow", "VGG16", "Pickle", "React"],
+    tags: ["Python", "PyCharm", "JetBrains", "Turtle", "Unity"],
     category: "others",
     github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
     webapp: "https://brain-tumor.netlify.app/",
