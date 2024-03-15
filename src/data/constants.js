@@ -63,7 +63,8 @@ export const skills = [
       },
       {
         name: "Java",
-        image: "https://raw.githubusercontent.com/sonishstark/Portfolio-website/50ea5d5567b1ad3bdebc151bbcc5e1d1448d29be/public/java.svg",
+        image:
+          "https://raw.githubusercontent.com/sonishstark/Portfolio-website/50ea5d5567b1ad3bdebc151bbcc5e1d1448d29be/public/java.svg",
       },
       {
         name: "C/C++",
@@ -78,7 +79,7 @@ export const skills = [
       {
         name: "AWS",
         image:
-          "https://customcodefactory.com/wp-content/uploads/2019/12/aws-app-icon.jpg",
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/aws.jpg?raw=true",
       },
       {
         name: "Git",
@@ -88,30 +89,31 @@ export const skills = [
       {
         name: "GitHub",
         image:
-          "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/GitHub.png?raw=true",
       },
       {
         name: "Arduino",
-        image: "https://yoolk.ninja/wp-content/uploads/2016/12/Arduino.png",
+        image:
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/Arduino2.png?raw=true",
       },
       {
         name: "Postman",
-        image: "https://www.svgrepo.com/show/354202/postman-icon.svg",
+        image:
+          "https://raw.githubusercontent.com/sonishstark/Portfolio-website/bea10f030202fb553a22c550317c355dc4a4cc4d/public/postman.svg",
       },
       {
         name: "MongoDB",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+          "https://raw.githubusercontent.com/sonishstark/Portfolio-website/bea10f030202fb553a22c550317c355dc4a4cc4d/public/mongodb.svg",
       },
       {
         name: "VS Code",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/vscode.png?raw=true",
       },
       {
         name: "PyCharm",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png",
+        image: "https://github.com/sonishstark/Portfolio-website/blob/main/public/PyCharm.png?raw=true",
       },
     ],
   },
