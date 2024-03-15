@@ -328,43 +328,53 @@ export const projects = [
     member: [
       {
         name: "Sonish Sasidharan",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+        img: "https://avatars.githubusercontent.com/u/52243863?v=4",
+        linkedin: "https://www.linkedin.com/in/sonish-s/",
         github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
       },
     ],
   },
   {
     id: 3,
-    title: "AI Hand sign detection ",
-    date: "Dec 2021 - Apr 2022",
+    title: "AI sign detection",
+    date: "Dec 2021 - Apr 2022 (Internship)",
     description:
       "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
     image:
-      "https://www.researchgate.net/publication/333618617/figure/fig3/AS:766343225815042@1559721871411/Sample-Images-from-self-developed-Dataset-Hand-Gesture-Recognition-Database-14-also.ppm",
-    tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
+      "https://github.com/sonishstark/Portfolio-website/blob/main/public/hand_sign.jpg?raw=true",
+    tags: ["Python", "TensorFLow", "Neural Network", "Keras"],
     category: "others",
     github: "https://github.com/rishavchanda/Buckoid-Android-App",
     webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    member: [
+      {
+        name: "Sonish Sasidharan",
+        img: "https://avatars.githubusercontent.com/u/52243863?v=4",
+        linkedin: "https://www.linkedin.com/in/sonish-s/",
+        github: "https://github.com/rishavchanda/",
+      },
+    ],
   },
   {
     id: 10,
     title: "Object Detection",
-    date: "Jun 2023 - Jul 2023",
+    date: "Jun 2023 - Jul 2023 (Internship)",
     description:
       "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
     image:
       "https://github.com/sonishstark/Portfolio-website/blob/main/public/Arduino.png?raw=true",
-    tags: ["React Native", "JavaScript", "Axios"],
+    tags: ["Arduino", "Ultrasonic Sensor", "C/C++", "HC-SR04"],
     category: "others",
     github: "https://github.com/rishavchanda/Job-finder-App",
     webapp: "https://github.com/rishavchanda/Job-finder-App",
+    member: [
+      {
+        name: "Sonish Sasidharan",
+        img: "https://avatars.githubusercontent.com/u/52243863?v=4",
+        linkedin: "https://www.linkedin.com/in/sonish-s/",
+        github: "https://github.com/rishavchanda/",
+      },
+    ],
   },
 ];
 
