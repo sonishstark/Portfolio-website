@@ -38,35 +38,37 @@ export const skills = [
       },
       {
         name: "JavaScript",
-        image: "https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png",
+        image:
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/js.png?raw=true",
       },
       {
         name: "Bootstrap",
         image:
-          "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
-      },
-      {
-        name: "MongoDB",
-        image: "https://www.svgrepo.com/show/331488/mongodb.svg",
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/bootstrap.png?raw=true",
       },
       {
         name: "MySQL",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/sql.png?raw=true",
       },
       {
         name: "Node Js",
-        image: "https://nodejs.org/static/images/logo.svg",
+        image:
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/node.png?raw=true",
       },
       {
         name: "Python",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+          "https://raw.githubusercontent.com/sonishstark/Portfolio-website/50ea5d5567b1ad3bdebc151bbcc5e1d1448d29be/public/python.svg",
       },
       {
         name: "Java",
+        image: "https://raw.githubusercontent.com/sonishstark/Portfolio-website/50ea5d5567b1ad3bdebc151bbcc5e1d1448d29be/public/java.svg",
+      },
+      {
+        name: "C/C++",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/c.png?raw=true",
       },
     ],
   },
