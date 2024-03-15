@@ -113,7 +113,8 @@ export const skills = [
       },
       {
         name: "PyCharm",
-        image: "https://github.com/sonishstark/Portfolio-website/blob/main/public/PyCharm.png?raw=true",
+        image:
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/PyCharm.png?raw=true",
       },
     ],
   },
@@ -124,37 +125,36 @@ export const skills = [
       {
         name: "DaVinci",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/2048px-DaVinci_Resolve_17_logo.svg.png",
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/DaVinci.png?raw=true",
       },
       {
         name: "Photoshop",
         image:
-          "https://static-00.iconduck.com/assets.00/photoshop-icon-1024x999-xhts0syq.png",
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/photoshop.png?raw=true",
       },
       {
         name: "VN Editor",
         image:
-          "https://play-lh.googleusercontent.com/0mvy747JRrqlziGtpvii5zKcMgL0AYRjXNRMlBkUbYadBabC1Dg466LsLKFION1vTg",
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/VN_editor.png?raw=true",
       },
       {
         name: "Clipchamp",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Clipchamp.svg/1200px-Microsoft_Clipchamp.svg.png",
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/Clipchamp.png?raw=true",
       },
       {
         name: "Snapseed",
         image:
-          "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Snapseed_Logo.svg/1200px-Snapseed_Logo.svg.png",
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/Snapseed.png?raw=true",
       },
       {
         name: "Canva",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg",
+          "https://raw.githubusercontent.com/sonishstark/Portfolio-website/8102f9c26fad382346b4cfbe6d1a1cc68b894b34/public/Canva.svg",
       },
       {
         name: "Obsidian",
-        image:
-          "https://forum.obsidian.md/uploads/default/original/2X/6/6df43bc4ee96f0a1b67ff3600caf6879b758a743.png",
+        image: "https://github.com/sonishstark/Portfolio-website/blob/main/public/obsidian.png?raw=true",
       },
     ],
   },
