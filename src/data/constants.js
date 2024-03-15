@@ -167,10 +167,10 @@ export const experiences = [
     role: "Associate Software Engineer",
     company: "Accenture",
     date: "Feb 2022- June 2023",
-    desc: "As a full stack developer, I worked with multiple frameworks and integrated React and Python scripts to create an e-commerce website for the clients. worked with AWS to manage a website and charge for services in accordance with client specifications.",
+    desc: "As a full stack developer, I worked with multiple frameworks and integrated React and Python scripts to create an e-commerce website for the clients. worked with AWS to manage a website and deploy billing UI for services in accordance with client specifications.",
     skills: [
       "Python",
-      "Angular",
+      "React",
       "AWS",
       "pandas",
       "JavaScript",
