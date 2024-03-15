@@ -38,7 +38,7 @@ export const skills = [
       },
       {
         name: "JavaScript",
-        image: "https://github.com/sonishstark/Portfolio-website/blob/main/public/js.png?raw=true",
+        image: "https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png",
       },
       {
         name: "Bootstrap",
