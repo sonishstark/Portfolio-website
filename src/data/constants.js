@@ -19,7 +19,7 @@ export const skills = [
       {
         name: "React Js",
         image:
-          "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+          "https://raw.githubusercontent.com/sonishstark/Portfolio-website/dd18d5f4aee6db9a2275dac2cb1043e18c988ec7/public/React.svg",
       },
       {
         name: "Angular Js",
@@ -28,17 +28,17 @@ export const skills = [
       },
       {
         name: "HTML",
-        image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
+        image:
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/html.png?raw=true",
       },
       {
         name: "CSS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://github.com/sonishstark/Portfolio-website/blob/main/public/CSS.png?raw=true",
       },
       {
         name: "JavaScript",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+        image: "https://github.com/sonishstark/Portfolio-website/blob/main/public/javascript.png?raw=true",
       },
       {
         name: "Bootstrap",
@@ -232,7 +232,8 @@ export const projects = [
     date: "Mar 2024",
     description:
       "I have developed my own portfolio webiste showcasing my bio details and professional achievements.",
-    image: "https://github.com/sonishstark/Portfolio-website/blob/main/public/Portfolio.png?raw=true",
+    image:
+      "https://github.com/sonishstark/Portfolio-website/blob/main/public/Portfolio.png?raw=true",
     tags: [
       "React JS",
       "HTML",
@@ -314,7 +315,7 @@ export const projects = [
     description:
       "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
     image:
-       "https://github.com/sonishstark/Portfolio-website/blob/main/public/snake_game.png?raw=true",
+      "https://github.com/sonishstark/Portfolio-website/blob/main/public/snake_game.png?raw=true",
     tags: ["Python", "PyCharm", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "others",
     github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
@@ -354,7 +355,7 @@ export const projects = [
     description:
       "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
     image:
-        "https://github.com/sonishstark/Portfolio-website/blob/main/public/Arduino.png?raw=true",
+      "https://github.com/sonishstark/Portfolio-website/blob/main/public/Arduino.png?raw=true",
     tags: ["React Native", "JavaScript", "Axios"],
     category: "others",
     github: "https://github.com/rishavchanda/Job-finder-App",
