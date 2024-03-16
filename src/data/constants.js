@@ -318,13 +318,13 @@ export const projects = [
       "https://github.com/sonishstark/Portfolio-website/blob/main/public/snake_game.png?raw=true",
     tags: ["Python", "PyCharm", "JetBrains", "Turtle", "Unity"],
     category: "others",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+    github: "https://github.com/sonishstark/Snake_Game",
     member: [
       {
         name: "Sonish Sasidharan",
         img: "https://avatars.githubusercontent.com/u/52243863?v=4",
         linkedin: "https://www.linkedin.com/in/sonish-s/",
-        github: "https://github.com/rishavchanda/",
+        github: "",
       },
     ],
   },
