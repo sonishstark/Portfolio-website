@@ -293,7 +293,7 @@ export const projects = [
       "https://github.com/sonishstark/Portfolio-website/blob/main/public/Gorup_media.jpg?raw=true",
     tags: ["JavaScript", "Django", "Bootstrap", "HTML", "CSS", "Apache Tomcat"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
+    github: "https://github.com/sonishstark/Group_Media",
     member: [
       {
         name: "Vivian Xaiver",
@@ -338,7 +338,7 @@ export const projects = [
       "https://github.com/sonishstark/Portfolio-website/blob/main/public/hand_sign.jpg?raw=true",
     tags: ["Python", "TensorFLow", "Neural Network", "Keras"],
     category: "others",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
+    github: "",
     member: [
       {
         name: "Sonish Sasidharan",
@@ -364,7 +364,7 @@ export const projects = [
         name: "Sonish Sasidharan",
         img: "https://avatars.githubusercontent.com/u/52243863?v=4",
         linkedin: "https://www.linkedin.com/in/sonish-s/",
-        github: "https://github.com/rishavchanda/",
+        github: "https://github.com/sonishstark",
       },
     ],
   },
