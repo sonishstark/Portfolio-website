@@ -236,7 +236,7 @@ export const projects = [
     description:
       "I have developed my own portfolio webiste showcasing my bio details and professional achievements.",
     image:
-      "https://github.com/sonishstark/Portfolio-website/blob/main/public/Portfolio.png?raw=true",
+      "https://github.com/sonishstark/Portfolio-website/blob/main/public/Port_web.png?raw=true",
     tags: [
       "React JS",
       "HTML",
