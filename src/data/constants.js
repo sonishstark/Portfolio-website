@@ -286,7 +286,7 @@ export const projects = [
   {
     id: 1,
     title: "Group Media",
-    date: "Oct 2022 - Present",
+    date: "Jan 2021 - May 2021",
     description:
       "Developed a media website with HTML and JavaScript that allows users to explore more than 40 groups for socializing and Networking. It is an open-space website featuring several organized groups and their interacting data. The goal of this platform was for the users to share knowledge, information and communicate among themselves.",
     image:
