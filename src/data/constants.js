@@ -351,7 +351,7 @@ export const projects = [
   {
     id: 10,
     title: "Object Detection",
-    date: "Jun 2023 - Jul 2023 (Internship)",
+    date: "Dec 2018 (Internship)",
     description:
       "Created a proximity tool with a sensor that can recognize objects in motion and determine how close they are, so that the user can be aware it  also developed the ability to record substance in front of it and move accordingly to avoid obstruction.",
     image:
