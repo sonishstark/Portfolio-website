@@ -338,7 +338,7 @@ export const projects = [
       "https://github.com/sonishstark/Portfolio-website/blob/main/public/hand_sign.jpg?raw=true",
     tags: ["Python", "TensorFLow", "Neural Network", "Keras"],
     category: "others",
-    github: "",
+    github: "https://github.com/sonishstark/Object_Detection/blob/main/AI_Certificate.pdf",
     member: [
       {
         name: "Sonish Sasidharan",
@@ -358,7 +358,7 @@ export const projects = [
       "https://github.com/sonishstark/Portfolio-website/blob/main/public/Arduino.png?raw=true",
     tags: ["Arduino", "Ultrasonic Sensor", "C/C++", "HC-SR04"],
     category: "others",
-    github: "https://github.com/sonishstark/Object_Detection",
+    github: "https://github.com/sonishstark/Object_Detection/blob/main/UltraSonic_certificate.pdf",
     member: [
       {
         name: "Sonish Sasidharan",
