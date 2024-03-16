@@ -331,7 +331,7 @@ export const projects = [
   {
     id: 3,
     title: "AI sign detection",
-    date: "Dec 2021 - Apr 2022 (Internship)",
+    date: "Dec 2019 (Internship)",
     description:
       "Developed AI for detecting hand signs, discovered several methods for interpreting data by executing tasks in an intelligent manner, and gained an understanding of how cognitive AI functions work based on deep and reinforcement learning.",
     image:
