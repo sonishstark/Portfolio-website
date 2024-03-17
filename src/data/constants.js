@@ -324,7 +324,7 @@ export const projects = [
         name: "Sonish Sasidharan",
         img: "https://avatars.githubusercontent.com/u/52243863?v=4",
         linkedin: "https://www.linkedin.com/in/sonish-s/",
-        github: "",
+        github: "https://github.com/sonishstark",
       },
     ],
   },
