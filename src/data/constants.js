@@ -1,6 +1,6 @@
 export const Bio = {
   name: "Sonish Sasidharan",
-  roles: ["Full Stack Developer", "Programmer", "Tech Enthusiast", "Blogger"],
+  roles: ["Full-Stack Developer", "Programmer", "Tech Enthusiast", "Blogger"],
   description:
     "I consider myself a flexible and driven person who is always willing to try new things. Delivering top-notch results is my passion, and I'm eager to learn about new technologies. With a growth mindset and a positive outlook, I'm ready to make meaningful contributions and achieve great things.",
   github: "https://github.com/sonishstark",
@@ -168,7 +168,7 @@ export const experiences = [
     role: "Associate Software Engineer",
     company: "Accenture",
     date: "Feb 2022- June 2023",
-    desc: "As a full stack developer, I worked with multiple frameworks and integrated React and Python scripts to create an e-commerce website for the clients. worked with AWS to manage a website and deploy billing UI for services in accordance with client specifications.",
+    desc: "As a full-stack developer, I worked with multiple frameworks and integrated React and Python scripts to create an e-commerce website for the clients. worked with AWS to manage a website and deploy billing UI for services in accordance with client specifications.",
     skills: [
       "Python",
       "React",
@@ -186,16 +186,16 @@ export const experiences = [
     role: "Stream Training",
     company: "Accenture",
     date: "Sept 2021 - Feb 2022",
-    desc: "I developed a user-specific pizza ordering website using Angular, incorporating customization features. Collaborated with teams using Git for version control. The traning overall enhanced my knowledge on the listed skillset below. ",
+    desc: "I developed a user-specific pizza ordering website using Angular, incorporating customization features. Collaborated with teams using Git for version control. The training overall enhanced my knowledge on the listed skillset below. ",
     skills: [
-      "AngularJS",
-      "NodeJs",
+      "Angular JS",
+      "Node Js",
       "HTML",
       "CSS",
       "JavaScript",
       "SQL",
       "MongoDB",
-      "PostmanAPI",
+      "Postman API",
     ],
   },
 ];
@@ -338,7 +338,8 @@ export const projects = [
       "https://github.com/sonishstark/Portfolio-website/blob/main/public/hand_sign.jpg?raw=true",
     tags: ["Python", "TensorFLow", "Neural Network", "Keras"],
     category: "others",
-    github: "https://github.com/sonishstark/Object_Detection/blob/main/AI_Certificate.pdf",
+    github:
+      "https://github.com/sonishstark/Object_Detection/blob/main/AI_Certificate.pdf",
     member: [
       {
         name: "Sonish Sasidharan",
@@ -358,7 +359,8 @@ export const projects = [
       "https://github.com/sonishstark/Portfolio-website/blob/main/public/Arduino.png?raw=true",
     tags: ["Arduino", "Ultrasonic Sensor", "C/C++", "HC-SR04"],
     category: "others",
-    github: "https://github.com/sonishstark/Object_Detection/blob/main/UltraSonic_certificate.pdf",
+    github:
+      "https://github.com/sonishstark/Object_Detection/blob/main/UltraSonic_certificate.pdf",
     member: [
       {
         name: "Sonish Sasidharan",

@@ -20,7 +20,8 @@ const Projects = ({ openModal, setOpenModal }) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-           My portfolio of projects is extensive. These projects range from web applications to little projects that I've worked on.
+          My portfolio of projects is extensive. These projects range from web
+          applications to ML, AI, and IOT which I've worked on.
         </Desc>
         <ToggleButtonGroup>
           {toggle === "all" ? (
