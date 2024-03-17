@@ -354,7 +354,7 @@ export const projects = [
     title: "Object Detection",
     date: "Dec 2018 (Internship)",
     description:
-      "Created a proximity tool with a sensor that can recognize objects in motion and determine how close they are, so that the user can be aware it  also developed the ability to record substance in front of it and move accordingly to avoid obstruction.",
+      "Created a proximity tool with a sensor that can recognize objects in motion and determine how close they are, so that the user can be aware it  also developed the ability to record substances in front of it and move accordingly to avoid obstruction.",
     image:
       "https://github.com/sonishstark/Portfolio-website/blob/main/public/Arduino.png?raw=true",
     tags: ["Arduino", "Ultrasonic Sensor", "C/C++", "HC-SR04"],
