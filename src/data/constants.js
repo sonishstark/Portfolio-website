@@ -5,7 +5,7 @@ export const Bio = {
     "I consider myself a flexible and driven person who is always willing to try new things. Delivering top-notch results is my passion, and I'm eager to learn about new technologies. With a growth mindset and a positive outlook, I'm ready to make meaningful contributions and achieve great things.",
   github: "https://github.com/sonishstark",
   resume:
-    "https://drive.google.com/file/d/1Gwfid3BmSgEHwF0TAb8ABmL8zhSR31IR/view?usp=sharing",
+    "https://github.com/sonishstark/Resume/blob/main/Sonish_Resume1.pdf",
   linkedin: "https://www.linkedin.com/in/sonish-s/",
   twitter: "https://twitter.com/SonishStark",
   insta: "https://www.instagram.com/timepassguyyy/",
