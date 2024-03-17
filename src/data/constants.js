@@ -262,7 +262,7 @@ export const projects = [
     title: "Weather Forecast",
     date: "Sept 2023 - Nov 2023",
     description:
-      "Using the Kemal framework and the Crystal programming language, we build a weather prediction website that can be used to track the weather in a specific area and be adapted to our daily lives. Features include real-time weather data, rainfall predictions, geolocation selection, weather alerts, and agricultural insights help with planning based on the predicated data.",
+      "Using the Kemal framework and the Crystal programming language, we build a weather prediction website that can be used to track the weather in a specific area and be adapted to our daily lives. Features include real-time weather data, rainfall predictions, geolocation selection, weather alerts, and agricultural insights to help with planning based on the predicted data.",
     image:
       "https://github.com/sonishstark/Portfolio-website/blob/main/public/Weather.png?raw=true",
     tags: ["Cystal", "Kemal", "JavaScript", "HTML", "CSS"],
