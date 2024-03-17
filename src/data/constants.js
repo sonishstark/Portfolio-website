@@ -296,7 +296,7 @@ export const projects = [
     github: "https://github.com/sonishstark/Group_Media",
     member: [
       {
-        name: "Vivian Xaiver",
+        name: "Vivian Xavier",
         img: "https://1000logos.net/wp-content/uploads/2021/05/Fallen-logo.png",
         linkedin: "https://www.linkedin.com/in/vivian-xavier-460899189/",
       },
