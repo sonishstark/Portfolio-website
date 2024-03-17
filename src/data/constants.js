@@ -234,7 +234,7 @@ export const projects = [
     title: "Portfolio Website",
     date: "Mar 2024",
     description:
-      "I have developed my own portfolio webiste showcasing my bio details and professional achievements.",
+      "I have developed my own portfolio website showcasing my bio details and professional achievements.",
     image:
       "https://github.com/sonishstark/Portfolio-website/blob/main/public/Port_web1.png?raw=true",
     tags: [
